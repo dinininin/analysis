@@ -1,0 +1,16 @@
+Transaction Occurs: Payment is made by the customer.
+Receive Payment: Cashier identifies payment type and account.
+Is Payment by Check?: Decision point to check payment type.
+If yes, deposit the check and wait for clearance.
+If no, proceed to enter payment details.
+Wait for Check Clearance: Once cleared, update the system.
+Enter Payment Details: Record the transaction in the system.
+Generate Receipt: Issue a receipt to the customer.
+End of Day Reconciliation: Reconcile daily totals and prepare a report.
+Monthly Closing: Prepare and review the closing trial balance.
+Are Errors Detected?: Decision point for error detection.
+If yes, inform VP Finance for correction.
+If no, end the process.
+Prepare Journal Voucher: VP Finance prepares correction.
+Approve and Post Voucher: Correct the error in the ledger.
+End: Process is complete.
